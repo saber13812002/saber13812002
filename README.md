@@ -33,7 +33,7 @@ My favorite editor is VSCode and also use PhpStorm
     <a href="https://github.com/saber13812002">
         <img src="https://img.shields.io/github/followers/saber13812002?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/saber.tabatabaee">
+    <a href="https://www.linkedin.com/in/sabertabatabaee">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/saber13812002">
