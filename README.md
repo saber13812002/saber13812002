@@ -11,7 +11,9 @@ My favorite editor is VSCode and also use PhpStorm
 
 <p align="center">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA">
+    <img src="https://img.shields.io/badge/Elasticsearch-yellow?style=flat&logo=Elasticsearch&logoColor=#20c997"/ alt="Elasticsearch">
+    <img src="https://img.shields.io/badge/graphql?style=flat&logo=Elasticsearch&logoColor=#20c997"/ alt="Nebula Graph">
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Java Script">
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
