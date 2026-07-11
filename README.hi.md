@@ -1,4 +1,16 @@
-<div align="center">
+لینک‌های شبکه‌های اجتماعی در تمام ۱۰ فایل اصلاح شد:
+
+### ✅ لینک‌های به‌روزرسانی شده
+
+| سرویس | لینک جدید | وضعیت |
+|-------|-----------|--------|
+| 📱 **Telegram** | [`https://t.me/sabertaba`](https://t.me/sabertaba) | ✅ درست بود |
+| 📱 **Soroush** | [`https://splus.ir/sabertaba`](https://splus.ir/sabertaba) | 🔧 اصلاح شد (قبلاً به Telegram اشاره می‌کرد) |
+| 📱 **Eitaa** | [`https://eitaa.com/sabertaba`](https://eitaa.com/sabertaba) | 🔧 اصلاح شد (قبلاً به Telegram اشاره می‌کرد) |
+| 📱 **Bale** | [`https://ble.ir/sabertaba`](https://ble.ir/sabertaba) | ➕ اضافه شد (جدید) |
+| 📧 **Gmail** | `saber.tabatabaee@gmail.com` | ✅ بدون تغییر |
+
+این تغییرات در تمام نسخه‌های زبانی (فارسی، عربی، اردو، روسی، چینی، فرانسوی، آلمانی، اسپانیایی، هندی و انگلیسی اصلی) اعمال شد.<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Saber%20Tabatabaei%20Yazdi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
@@ -147,8 +159,9 @@ func About() string {
 
 <p align="center">
   <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
-  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style-for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="https://splus.ir/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
+  <a href="https://eitaa.com/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="https://ble.ir/sabertaba"><img src="https://img.shields.io/badge/Bale-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Bale"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
