@@ -10,7 +10,7 @@
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-saber13812002-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-sabertabatabaee-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-%40saber13812002-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,10 @@ func About() string {
 
 我是一名 **产品工程师 (Product Engineer)**，致力于弥合**产品策略**、**软件工程**和**人工智能**之间的鸿沟。凭借超过25年的技术行业经验，我设计和构建解决现实问题的智能系统。
 
-- 🔭 **目前：** **梅赫曼控股**产品工程师 — 正在构建 **Kasra**，一个新一代 BPMS 平台，采用**微服务架构**、**no-code/low-code** 能力和基于 Kubernetes 的 **cloud-native** 部署。
+- 🔭 **目前：**
+  - **人工智能部门主管 | 研发与教育产品开发** 在 **神学院管理中心** — 领导从研究到部署的完整 AI 产品生命周期，用于学术和培训目的。
+  - **产品团队 AI 开发者** 在 **伊玛目霍梅尼教育研究院** — 构建书籍语义搜索 API、新网站的 AI 工具等。
+  - **软件研发工程师 | 产品与安全专家** 在 **贾米亚特·阿尔-扎赫拉** — 领导研发、安全框架、产品生命周期、BPM 以及基于 Docker 和 Keycloak 的可扩展基础设施。
 - 🤖 **AI 重点：** 开发 **RAG（检索增强生成）** 系统、**LLM 驱动的代理**和**基于 AI 的自动化**流水线。
 - 🛠️ **核心栈：** **Go**（Golang）、**Python**、**Django**、**PHP/Laravel**、**.NET**、**Java**、**Node.js**、**Vue.js**
 - ☁️ **基础设施：** **Docker**、**Kubernetes**、**微服务**、**Elasticsearch**
@@ -124,6 +127,7 @@ func About() string {
 - **RAG 流水线架构** — 为企业知识库设计和实现检索增强生成系统
 - **多代理 AI 工作流** — 使用 LLM 构建监督者-代理架构
 - **AI 驱动的研究助手** — 利用 Perplexity、Elicit、Consensus、SciSpace 和 NotebookLM 实现学术研究自动化
+- **语义搜索 API** — 使用开源语言模型对大型图书库进行 AI 搜索
 
 ### 🚀 Go（Golang）
 - 企业级 Go 微服务
@@ -135,13 +139,28 @@ func About() string {
 
 ---
 
+## 💬 免费咨询
+
+> _对 AI、RAG 系统、软件架构或您的下一个技术项目有疑问？_
+
+我在 Telegram 上提供**免费咨询**。用**任何语言** — 中文，English，فارسی، العربية، اردو، Русский، Français، Deutsch، Español، हिन्दी — 给我发消息，我将很乐意提供帮助。
+
+<p align="center">
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
 ## 🤝 联系我
 
 <p align="center">
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/308578/saber-tabatabaee-yazdi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://virgool.io/@saber.tabatabaee"><img src="https://img.shields.io/badge/Virgool-7fc2f7?style=for-the-badge&logo=medium" alt="Virgool"/></a>
   <a href="https://www.youtube.com/channel/saber13812002"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>

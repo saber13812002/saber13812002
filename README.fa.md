@@ -10,7 +10,7 @@
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-saber13812002-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-sabertabatabaee-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-%40saber13812002-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
 
 <p align="center" dir="rtl">
@@ -37,7 +37,10 @@ func About() string {
 
 من یک **مهندس محصول (Product Engineer)** هستم که شکاف بین **استراتژی محصول**، **مهندسی نرم‌افزار** و **هوش مصنوعی** را پر می‌کنم. با بیش از ۲۵ سال تجربه در صنعت فناوری، سیستم‌های هوشمندی طراحی و می‌سازم که مشکلات واقعی را حل می‌کنند.
 
-- 🔭 **در حال حاضر:** مهندس محصول در **هلدینگ مهیمن** — در حال ساخت **کسری**، یک پلتفرم BPMS نسل جدید با **معماری میکروسرویس**، قابلیت‌های **no-code/low-code** و استقرار **cloud-native** روی Kubernetes.
+- 🔭 **در حال حاضر:**
+  - **رئیس دپارتمان هوش مصنوعی | تحقیق و توسعه و توسعه محصول برای آموزش** در **مرکز مدیریت حوزه** — رهبری چرخه کامل محصول AI از تحقیق تا استقرار برای اهداف آموزشی و پژوهشی.
+  - **توسعه‌دهنده AI در تیم محصول** در **پژوهشگاه امام خمینی** — ساخت API جستجوی معنایی برای کتب، ابزارهای AI برای وب‌سایت‌های جدید و موارد دیگر.
+  - **مهندس تحقیق و توسعه نرم‌افزار | متخصص محصول و امنیت** در **جامعة الزهرا** — رهبری R&D، چارچوب‌های امنیتی، چرخه عمر محصول، BPM و زیرساخت مقیاس‌پذیر با Docker و Keycloak.
 - 🤖 **تمرکز AI:** توسعه سیستم‌های **RAG (تولید با بازیابی افزوده)**، **عامل‌های مبتنی بر LLM** و خطوط لوله **اتوماسیون مبتنی بر هوش مصنوعی**.
 - 🛠️ **استک اصلی:** **Go** (Golang)، **Python**، **Django**، **PHP/Laravel**، **.NET**، **Java**، **Node.js**، **Vue.js**
 - ☁️ **زیرساخت:** **Docker**، **Kubernetes**، **Microservices**، **Elasticsearch**
@@ -147,13 +150,6 @@ func About() string {
 - پلتفرم‌های وب و APIهای مبتنی بر Django
 - خطوط لوله پردازش داده و یکپارچه‌سازی AI با Python
 
-### 🔧 پروژه جاری: پلتفرم Kasra BPMS @ هلدینگ مهیمن
-یک **سیستم مدیریت فرآیند کسب‌وکار** نسل جدید ساخته شده با:
-- **معماری میکروسرویس** — مقیاس‌پذیر، قابل نگهداری و cloud-native
-- **قابلیت No-Code / Low-Code** — توانمندسازی کاربران کسب‌وکار برای طراحی بصری گردش کار
-- **آماده Kubernetes** — استقرار در ابر برای مقیاس جهانی
-- **تقویت‌شده با AI** — اتوماسیون فرآیند هوشمند و پشتیبانی تصمیم‌گیری
-
 ### 📚 پروژه‌های شاخص گذشته
 | پروژه | توضیحات | استک فناوری |
 |---------|-------------|-------|
@@ -162,6 +158,21 @@ func About() string {
 | **SimplePOS** | سیستم صندوق فروش برای بازار استرالیا | PHP، WordPress، Ionic، .NET Core |
 | **Mega Travels** | مدیریت گردشگری ایران — رزرو قطار، پرواز، هتل، تور | Laravel، .NET Core، WordPress، Ionic |
 | **Elpida247** | کلینیک مجازی دیابت برای بازار انگلستان | Laravel، Ionic، Android |
+
+---
+
+## 💬 مشاوره رایگان
+
+> _سوالی درباره AI، سیستم‌های RAG، معماری نرم‌افزار یا پروژه فناوری بعدی خود دارید؟_
+
+من **مشاوره رایگان** در تلگرام ارائه می‌دهم. می‌توانید به **هر زبانی** — فارسی، English، العربية، اردو، Русский، 中文، Français، Deutsch، Español، हिन्दी — پیام دهید و خوشحال می‌شوم کمک کنم.
+
+<p align="center" dir="rtl">
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ---
 
@@ -182,7 +193,7 @@ func About() string {
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/308578/saber-tabatabaee-yazdi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://virgool.io/@saber.tabatabaee"><img src="https://img.shields.io/badge/Virgool-7fc2f7?style=for-the-badge&logo=medium" alt="Virgool"/></a>
   <a href="https://www.youtube.com/channel/saber13812002"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>

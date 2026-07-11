@@ -10,7 +10,7 @@
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-saber13812002-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-sabertabatabaee-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-%40saber13812002-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,10 @@ func About() string {
 
 Ich bin ein **Produktingenieur (Product Engineer)**, der die Lücke zwischen **Produktstrategie**, **Softwareentwicklung** und **künstlicher Intelligenz** schließt. Mit über 25 Jahren Erfahrung in der Technologiebranche entwerfe und baue ich intelligente Systeme, die reale Probleme lösen.
 
-- 🔭 **Derzeit:** Produktingenieur bei **Mehiman Holding** — Entwicklung von **Kasra**, einer BPMS-Plattform der nächsten Generation mit **Microservices-Architektur**, **No-Code/Low-Code**-Fähigkeiten und **Cloud-Native**-Bereitstellung auf Kubernetes.
+- 🔭 **Derzeit:**
+  - **Leiter der KI-Abteilung | F&E und Produktentwicklung für Bildung** im **Seminary Management Center** — Leitung des gesamten KI-Produktlebenszyklus von der Forschung bis zur marktreifen Bereitstellung für akademische und Ausbildungszwecke.
+  - **KI-Entwickler im Produktteam** am **Imam Khomeini Bildungs- und Forschungsinstitut** — Entwicklung von Semantic-Search-APIs für Bücher, KI-Tools für neue Websites und mehr.
+  - **Software F&E-Ingenieur | Produkt- und Sicherheitsspezialist** bei **Jami'at al-Zahra** — Leitung von F&E, Sicherheitsframeworks, Produktlebenszyklus, BPM und skalierbarer Infrastruktur mit Docker und Keycloak.
 - 🤖 **KI-Schwerpunkt:** Entwicklung von **RAG-Systemen (Retrieval-Augmented Generation)** , **LLM-basierten Agenten** und **KI-gesteuerten Automatisierungspipelines**.
 - 🛠️ **Haupt-Stack:** **Go** (Golang), **Python**, **Django**, **PHP/Laravel**, **.NET**, **Java**, **Node.js**, **Vue.js**
 - ☁️ **Infrastruktur:** **Docker**, **Kubernetes**, **Microservices**, **Elasticsearch**
@@ -124,6 +127,7 @@ Ich bin ein **Produktingenieur (Product Engineer)**, der die Lücke zwischen **P
 - **RAG-Pipeline-Architektur** — Entwurf und Implementierung von Retrieval-Augmented Generation Systemen für Unternehmenswissensdatenbanken
 - **Multi-Agent-KI-Workflows** — Aufbau von Supervisor-Agent-Architekturen mit LLMs
 - **KI-gestützte Forschungsassistenten** — Nutzung von Perplexity, Elicit, Consensus, SciSpace und NotebookLM zur Automatisierung akademischer Forschung
+- **Semantische Such-API** — KI-gestützte Suche für große Buchbestände mit offenen Sprachmodellen
 
 ### 🚀 Go (Golang)
 - Unternehmens-Microservices mit Go
@@ -135,13 +139,28 @@ Ich bin ein **Produktingenieur (Product Engineer)**, der die Lücke zwischen **P
 
 ---
 
+## 💬 Kostenlose Beratung
+
+> _Haben Sie eine Frage zu KI, RAG-Systemen, Softwarearchitektur oder Ihrem nächsten Technologieprojekt?_
+
+Ich biete **kostenlose Beratung** auf Telegram an. Schreiben Sie mir **in jeder Sprache** — Deutsch, English, فارسی, العربية, اردو, Русский, 中文, Français, Español, हिन्दी — und ich helfe Ihnen gerne weiter.
+
+<p align="center">
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
 ## 🤝 Vernetzen Sie sich mit mir
 
 <p align="center">
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/308578/saber-tabatabaee-yazdi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://virgool.io/@saber.tabatabaee"><img src="https://img.shields.io/badge/Virgool-7fc2f7?style=for-the-badge&logo=medium" alt="Virgool"/></a>
   <a href="https://www.youtube.com/channel/saber13812002"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>

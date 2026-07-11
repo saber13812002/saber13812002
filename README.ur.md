@@ -10,7 +10,7 @@
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-saber13812002-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-sabertabatabaee-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-%40saber13812002-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
 
 <p align="center" dir="rtl">
@@ -37,7 +37,10 @@ func About() string {
 
 میں ایک **پروڈکٹ انجینئر (Product Engineer)** ہوں جو **پروڈکٹ اسٹریٹیجی**، **سافٹ ویئر انجینئرنگ** اور **مصنوعی ذہانت** کے درمیان فاصلہ ختم کرتا ہوں۔ ٹیک انڈسٹری میں 25 سال سے زیادہ کے تجربے کے ساتھ، میں ذہین نظام ڈیزائن اور تیار کرتا ہوں جو حقیقی دنیا کے مسائل حل کرتے ہیں۔
 
-- 🔭 **موجودہ:** **مہیمن ہولڈنگ** میں پروڈکٹ انجینئر — **کسریٰ** بنا رہا ہوں، ایک نسل جدید BPMS پلیٹ فارم **مائیکروسروسز آرکیٹیکچر**، **no-code/low-code** صلاحیتوں اور Kubernetes پر **cloud-native** ڈیپلائمنٹ کے ساتھ۔
+- 🔭 **موجودہ:**
+  - **شعبہ AI کے سربراہ | تحقیق و ترقی اور تعلیم کے لیے مصنوعات کی ترقی** در **سیمینری مینجمنٹ سینٹر** — تعلیمی اور تربیتی مقاصد کے لیے تحقیق سے لے کر مارکیٹ میں تعیناتی تک AI پروڈکٹ لائف سائیکل کی قیادت۔
+  - **AI ڈویلپر پروڈکٹ ٹیم میں** در **امام خمینی تعلیمی اور تحقیقی ادارہ** — کتابوں کے لیے سیمینٹک سرچ APIs، نئی ویب سائٹس کے لیے AI ٹولز اور مزید۔
+  - **سافٹ ویئر R&D انجینئر | پروڈکٹ اور سیکیورٹی ماہر** در **جامعۃ الزہرا** — R&D، سیکیورٹی فریم ورکس، پروڈکٹ لائف سائیکل، BPM اور Docker اور Keycloak کے ساتھ اسکیل ایبل انفراسٹرکچر کی قیادت۔
 - 🤖 **AI فوکس:** **RAG (Retrieval-Augmented Generation)** سسٹم، **LLM پر مبنی ایجنٹس** اور **AI پر مبنی آٹومیشن** پائپ لائنز تیار کرنا۔
 - 🛠️ **بنیادی اسٹیک:** **Go** (Golang)، **Python**، **Django**، **PHP/Laravel**، **.NET**، **Java**، **Node.js**، **Vue.js**
 - ☁️ **انفراسٹرکچر:** **Docker**، **Kubernetes**، **Microservices**، **Elasticsearch**
@@ -135,13 +138,28 @@ func About() string {
 
 ---
 
+## 💬 مفت مشاورت
+
+> _AI، RAG سسٹمز، سافٹ ویئر آرکیٹیکچر یا آپ کے اگلے ٹیک پروجیکٹ کے بارے میں سوال ہے؟_
+
+میں ٹیلیگرام پر **مفت مشاورت** پیش کرتا ہوں۔ **کسی بھی زبان میں** — اردو، English، فارسی، العربية، Русский، 中文، Français، Deutsch، Español، हिन्दी — پیغام بھیجیں اور مجھے مدد کرنے میں خوشی ہوگی۔
+
+<p align="center" dir="rtl">
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
 ## 🤝 رابطہ کریں
 
 <p align="center" dir="rtl">
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/308578/saber-tabatabaee-yazdi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://virgool.io/@saber.tabatabaee"><img src="https://img.shields.io/badge/Virgool-7fc2f7?style=for-the-badge&logo=medium" alt="Virgool"/></a>
   <a href="https://www.youtube.com/channel/saber13812002"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>

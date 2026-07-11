@@ -10,7 +10,7 @@
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-saber13812002-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-sabertabatabaee-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-%40saber13812002-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
 
 <p align="center" dir="rtl">
@@ -37,7 +37,10 @@ func About() string {
 
 أنا **مهندس منتج (Product Engineer)** أسد الفجوة بين **استراتيجية المنتج**، **هندسة البرمجيات**، و**الذكاء الاصطناعي**. مع أكثر من 25 عامًا في صناعة التكنولوجيا، أصمم وأبني أنظمة ذكية تحل مشاكل العالم الحقيقي.
 
-- 🔭 **حاليًا:** مهندس منتج في **مجموعة مهيمن** — أعمل على بناء **كسرى**، منصة BPMS من الجيل الجديد مع **هندسة الخدمات المصغرة**، وقدرات **no-code/low-code**، ونشر **cloud-native** على Kubernetes.
+- 🔭 **حاليًا:**
+  - **رئيس قسم الذكاء الاصطناعي | البحث والتطوير وتطوير المنتجات للتعليم** في **مركز إدارة الحوزة** — قيادة دورة حياة منتج AI الكاملة من البحث إلى النشر للأغراض الأكاديمية والتدريبية.
+  - **مطور AI في فريق المنتج** في **معهد الإمام الخميني التعليمي والبحثي** — بناء APIs البحث الدلالي للكتب وأدوات AI للمواقع الجديدة والمزيد.
+  - **مهندس بحث وتطوير برمجيات | متخصص المنتج والأمن** في **جامعة الزهراء** — قيادة R&D وأطر الأمان ودورة حياة المنتج و BPM والبنية التحتية القابلة للتوسع مع Docker و Keycloak.
 - 🤖 **تركيز AI:** تطوير أنظمة **RAG (التوليد المعزز بالاسترجاع)**، **وكلاء LLM**، وخطوط أنابيب **الأتمتة بالذكاء الاصطناعي**.
 - 🛠️ **المكدس الأساسي:** **Go** (Golang)، **Python**، **Django**، **PHP/Laravel**، **.NET**، **Java**، **Node.js**، **Vue.js**
 - ☁️ **البنية التحتية:** **Docker**، **Kubernetes**، **Microservices**، **Elasticsearch**
@@ -147,13 +150,6 @@ func About() string {
 - منصات ويب و APIs قائمة على Django
 - خطوط أنابيب معالجة البيانات وتكامل AI باستخدام Python
 
-### 🔧 المشروع الحالي: منصة Kasra BPMS @ مجموعة مهيمن
-نظام **إدارة عمليات الأعمال** من الجيل الجديد مبني بـ:
-- **هندسة الخدمات المصغرة** — قابل للتوسع، قابل للصيانة، وسحابي أصلي
-- **قدرات No-Code / Low-Code** — تمكين مستخدمي الأعمال من تصميم سير العمل بصريًا
-- **جاهز لـ Kubernetes** — النشر على السحابة للنطاق العالمي
-- **معزز بالذكاء الاصطناعي** — أتمتة العمليات الذكية ودعم القرار
-
 ### 📚 المشاريع البارزة السابقة
 | المشروع | الوصف | المكدس التقني |
 |---------|-------------|-------|
@@ -162,6 +158,21 @@ func About() string {
 | **SimplePOS** | نظام نقاط البيع للسوق الأسترالي | PHP، WordPress، Ionic، .NET Core |
 | **Mega Travels** | إدارة السياحة في إيران — حجز القطار، الطيران، الفندق، الجولة | Laravel، .NET Core، WordPress، Ionic |
 | **Elpida247** | عيادة السكري الافتراضية للسوق البريطاني | Laravel، Ionic، Android |
+
+---
+
+## 💬 استشارة مجانية
+
+> _هل لديك سؤال حول AI أو أنظمة RAG أو هندسة البرمجيات أو مشروعك التقني القادم؟_
+
+أقدم **استشارة مجانية** على تيليغرام. أرسل لي رسالة **بأي لغة** — العربية، English، فارسی، اردو، Русский، 中文، Français، Deutsch، Español، हिन्दी — وسأكون سعيدًا بمساعدتك.
+
+<p align="center" dir="rtl">
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Soroush-%40sabertaba-00B2FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Soroush"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Eitaa-%40sabertaba-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Eitaa"/></a>
+  <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-saber.tabatabaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ---
 
@@ -182,7 +193,7 @@ func About() string {
   <a href="https://github.com/saber13812002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sabertabatabaee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/308578/saber-tabatabaee-yazdi"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow" alt="Stack Overflow"/></a>
-  <a href="https://t.me/saber13812002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+  <a href="https://t.me/sabertaba"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
   <a href="mailto:saber.tabatabaee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://virgool.io/@saber.tabatabaee"><img src="https://img.shields.io/badge/Virgool-7fc2f7?style=for-the-badge&logo=medium" alt="Virgool"/></a>
   <a href="https://www.youtube.com/channel/saber13812002"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
