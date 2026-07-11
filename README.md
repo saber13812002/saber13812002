@@ -2,6 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Saber%20Tabatabaei%20Yazdi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
+<p align="center">
+  🌐 <b>Language / زبان / لغة / भाषा / 语言 / Lingua</b> &nbsp;&nbsp;
+  <a href="README.md">🇬🇧 English</a> &bull;
+  <a href="README.fa.md">🇮🇷 فارسی</a> &bull;
+  <a href="README.ar.md">🇸🇦 العربية</a> &bull;
+  <a href="README.ur.md">🇵🇰 اردو</a> &bull;
+  <a href="README.ru.md">🇷🇺 Русский</a> &bull;
+  <a href="README.zh.md">🇨🇳 中文</a> &bull;
+  <a href="README.fr.md">🇫🇷 Français</a> &bull;
+  <a href="README.de.md">🇩🇪 Deutsch</a> &bull;
+  <a href="README.es.md">🇪🇸 Español</a> &bull;
+  <a href="README.hi.md">🇮🇳 हिन्दी</a>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Product+Engineer;AI+%26+RAG+Systems+Architect;Go+%26+Python+%26+Django+Developer;25%2B+Years+of+Tech+Innovation" alt="Typing SVG" />
 </h1>
